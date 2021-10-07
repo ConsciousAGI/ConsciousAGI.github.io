@@ -8,8 +8,8 @@
 $small-screen: 48em !default;
 $medium-screen: 62em !default;
 $large-screen: 75em !default;
-$font-family: "Raleway", sans-serif;
-$font-family-numbers: "Josefin Sans", sans-serif;
+$font-family: "Raleway", courier;
+$font-family-numbers: "Josefin Sans", courier;
 $font-size-base: 1rem !default;
 $font-size-h1: 2rem !default;
 $font-weight-strong: 600;
@@ -20,7 +20,7 @@ $card-bg-color: linear-gradient(
   rgba(232, 248, 251, 0.15) 15%,
   rgba(225, 225, 225, 1) 80%
 );
-$primary-color: #7c13b0;
+$primary-color: #b800a5;
 
 /* General */
 
@@ -274,7 +274,7 @@ a {
     }
 
     .social-svg {
-      fill: white;
+      fill: black;
     }
 
     .label {
@@ -309,7 +309,7 @@ a {
         colorEmail 1s linear forwards;
     }
     .social-svg {
-      fill: #d44638;
+      fill: #b800a5;
     }
   }
 
@@ -319,7 +319,7 @@ a {
         colorLinkedin 1s linear forwards;
     }
     .social-svg {
-      fill: #007bb6;
+      fill: #b800a5;
     }
   }
 
@@ -329,7 +329,7 @@ a {
         colorTwitter 1s linear forwards;
     }
     .social-svg {
-      fill: #1da1f2;
+      fill: #b800a5;
     }
   }
 
