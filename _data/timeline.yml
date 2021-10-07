@@ -22,8 +22,8 @@
   date: Stage 1
   subtitle: Computational Building Blocks
   tags:
-    - tag: -integrated
-    - tag: -modifiable
+    - tag: -integrate and fire
+    - tag: -morphological
   timeline-side: right
 
 - title: Topology
@@ -31,21 +31,24 @@
   date: Stage 2
   subtitle: Smart Connectivity
   tags:
-    - tag: -embodied
-    - tag: -inductive biases
-    - tag: -learning architectures
+    - tag: -evolutionary inspired
+    - tag: -adaptive emergence
   timeline-side: left
 
 - title: Knowledge Preservation
   title-url: https://example.com/
   date: Stage 3
   subtitle: Learning without Catastrophic Forgetting
+  tags:
+    - tag: -resource conservative
   timeline-side: right
 
 - title: Bootstrapping
   title-url: https://example.com/
   date: Stage 4
-  subtitle: Using A-priori Contextual Knowledge
+  subtitle: Using A-priori Knowledge
+  tags:
+    - tag: -contextual self-activation
   timeline-side: left
 
 - title: Basic Brain
@@ -53,6 +56,7 @@
   date: Stage 5
   subtitle: Minimum Instantiation
   tags:
+    - tag: -ethically integrated
     - tag: -life-long learning
     - tag: -adaptable
     - tag: -can learn new task faster with training on unrelated tasks
