@@ -82,7 +82,7 @@ contact_description: If you wish to get in touch with our wonderful team or beco
 # GITHUB-METADATA
 # Set this to your forked repository
 # > e.g. <user>/<user>.github.io
-repository: ConsciousAGI/simuli.github.io
+repository: ConsciousAGI/consciousagi.github.io
 projects:
   # sortby:
   # > set this to pushed, if you want to sort your github repositories by time.
@@ -99,7 +99,7 @@ projects:
     forks: true
     # projects: A list of the repository names you want to exclude from the listing.
     projects:
-    - simuli.github.io
+    - conscciousagi.github.io
     # - repo2-to-be-excluded
 
 # GOOGLE-ANALYTICS
