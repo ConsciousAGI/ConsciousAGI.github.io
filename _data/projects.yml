@@ -1,0 +1,34 @@
+# > name: Name of your project
+# > descr: Description of your project
+# > demo: Link to your project
+# > tags: List of technologies you used in your projects
+#
+# Example of a project
+# - name: project X
+#   descr: "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam"
+#   demo: https://example.com/
+#   tags:
+#     - tag: MongoDB
+#     - tag: Express
+#     - tag: AngularJS
+#     - tag: Node
+
+- name: Artificial Generally Intelligent Agent
+  descr: "An agreed upon definition of AGI still remains at large. At CAGI, we suspect a generall intelligent agent should be able to learn and accumulate knowledge in any environment while using that knowledge to create and enact goal-directed behavior in such a way that it can transmit information across time. We can measure the transfer of information and serve goals of the agent across its lifetime. Our roadmap provides some milestones we strive to accomplish on the way to an artificial general intelligence."
+  demo: 
+  tags:
+    - tag: Learning w/o Catestrophic Forgetting
+    - tag: Bootstrapping A-Priori Knowledge
+    - tag: Embodied Artificial Life
+    - tag: Online, Life-long Learning
+
+- name: Consciousness
+  descr: "It’s difficult to define concepts that we don’t fully understand, especially those which are harder to break down into their constituent parts. Consciousness is one of those concepts. Because we don’t yet fully understand the mechanisms that underlie this phenomena, making an agreed upon definition remains elusive. Although you may have some understanding of what consciousness is, it is unique to your own perspective. In a similar way that what you perceive to be the color blue is unique to your own experience. If someone were to ask you what blue is, you could describe it subjectively or empirically. At some point, we discovered blue is light with a  wavelength between 491-424 nm. However, green light is 575-491 nm. Take a light source with a wavelength of 491 nm, whether you will call this light blue or green will depend on other colors and the context in which you saw them. Consciousness is similar in that scientists and philosophers have long been describing some subjective aspects and perhaps some empirical functions. What makes the process of defining even more difficult is the nature of language to change over time. While we have our own ideas on what benchmarks consciousness, we also see the need to consolidate what has already been proposed and open the discussion to anyone who feels they have substantial contributions. Our goal at CAGI is to aid in the understanding of consciousness by modelling it, best we can."
+  demo: 
+  tags:
+    - tag: Intertwined with Learning
+    - tag: Self-Concept and Language
+    - tag: Self-Ascribed "Meaningful" Reward
+
+- name: Minimum Brain Architecture
+  descr: "We are currently working on implementing our recent work on general intelligence in a minimal brain architecture that can be used to solve a variety of problems."

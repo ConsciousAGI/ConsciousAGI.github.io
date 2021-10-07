@@ -1,0 +1,60 @@
+# > title: Name of your timeline entry, university or work place
+# > title-url: Link to your timeline entry, university or work place
+# > date: Time span
+# > subtitle: The description under the title
+# > tags: List of tags you want to associate with the entry
+# > timeline-side: The side on which you want to display the entry: left or right
+
+# Example of a timeline entry
+# - title: airbnb
+#   title-url: https://example.com/
+#   date: Sep 2019 - Present
+#   subtitle: Fullstack Developer
+#   tags:
+#     - tag: React
+#     - tag: Javascript
+#     - tag: Ruby
+#     - tag: Rails
+#   timeline-side: right
+
+- title: Neurons
+  title-url: https://example.com/
+  date: soon
+  subtitle: Computational Building Blocks
+  tags:
+    - tag: integrated
+    - tag: modifiable
+  timeline-side: right
+
+- title: Topology
+  title-url: https://example.com/
+  date: soon
+  subtitle: Smart Connectivity
+  tags:
+    - tag: embodied
+    - tag: inductive biases
+    - tag: learning architectures
+  timeline-side: left
+
+- title: Novelty Encoding
+  title-url: https://example.com/
+  date: near future
+  subtitle: Learning without Catastrophic Forgetting
+  timeline-side: right
+
+- title: Bootstrapping
+  title-url: https://example.com/
+  date: near future
+  subtitle: Using A-priori Contextual Knowledge
+  timeline-side: left
+
+- title: Basic Brain
+  title-url: https://example.com/
+  date: future
+  subtitle: Minimum Instantiation
+  tags:
+    - tag: life-long learning
+    - tag: adaptable
+    - tag: can learn new task faster with training on unrelated tasks
+    - tag: can go back to old tasks after learning new tasks
+  timeline-side: right
