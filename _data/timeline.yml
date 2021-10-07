@@ -19,42 +19,42 @@
 
 - title: Neurons
   title-url: https://example.com/
-  date: soon
+  date: Stage 1
   subtitle: Computational Building Blocks
   tags:
-    - tag: integrated
-    - tag: modifiable
+    - tag: -integrated
+    - tag: -modifiable
   timeline-side: right
 
 - title: Topology
   title-url: https://example.com/
-  date: soon
+  date: Stage 2
   subtitle: Smart Connectivity
   tags:
-    - tag: embodied
-    - tag: inductive biases
-    - tag: learning architectures
+    - tag: -embodied
+    - tag: -inductive biases
+    - tag: -learning architectures
   timeline-side: left
 
-- title: Novelty Encoding
+- title: Knowledge Preservation
   title-url: https://example.com/
-  date: near future
+  date: Stage 3
   subtitle: Learning without Catastrophic Forgetting
   timeline-side: right
 
 - title: Bootstrapping
   title-url: https://example.com/
-  date: near future
+  date: Stage 4
   subtitle: Using A-priori Contextual Knowledge
   timeline-side: left
 
 - title: Basic Brain
   title-url: https://example.com/
-  date: future
+  date: Stage 5
   subtitle: Minimum Instantiation
   tags:
-    - tag: life-long learning
-    - tag: adaptable
-    - tag: can learn new task faster with training on unrelated tasks
-    - tag: can go back to old tasks after learning new tasks
+    - tag: -life-long learning
+    - tag: -adaptable
+    - tag: -can learn new task faster with training on unrelated tasks
+    - tag: -can go back to old tasks after learning new tasks
   timeline-side: right
