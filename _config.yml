@@ -30,7 +30,7 @@ show_aboutme_card: true
 # about_me_title: The will be displayed as the title in the About Me section
 about_me_title: About Us
 # about_me_description: This will be displayed under the title.
-about_me_description: "We have a single mission: to create a conscious, generally intelligent, artificial brain. We believe in doing so, we can help humanity ethically and sustainably solve some of its toughest challenges that not only already exist, but may have yet to come. Along the way on our grand endeavour, there are milestones we see as pivotal turning points for the field of artificial intelligence and artificial life. Allow us to be one of the first, paving the way to conscious AGI."
+about_me_description: "We have a single mission: to create a conscious, generally intelligent, artificial brain. We believe in doing so, we can help humanity ethically and sustainably solve some of its toughest challenges that not only already exist, but may have yet to come. Along the way on our grand endeavour, there are milestones we see as pivotal turning points for the field of artificial intelligence and artificial life. "
 
 # SKILLS SECTION
 # show_skills_card:
